@@ -4,7 +4,7 @@ With this tool you can access detailed information of your processor information
 
 #### Programming Languages :
 
-* BASH
+* Python
 
 #### System :
 
